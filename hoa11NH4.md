@@ -1,4 +1,3 @@
-```markdown
 # Muối Ammonium (\(NH_4^+\))
 
 1. **Tính tan**  
@@ -40,4 +39,3 @@
      \[
      \text{H-N-H (mỗi liên kết với H là một liên kết cộng hóa trị)}
      \]
-```
