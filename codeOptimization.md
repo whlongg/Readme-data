@@ -1,5 +1,5 @@
 # From HLong, các kĩ thuật tối ưu code C++
-
+## 1. Các kĩ thuật tối ưu.
 ### 1. **Sử dụng `ios_base::sync_with_stdio(false);` và `cin.tie(nullptr);`**
 
    - **Nguyên lí**: Vô hiệu hóa đồng bộ hóa giữa `cin`/`cout` và `scanf`/`printf` giúp tăng tốc độ I/O.
@@ -376,3 +376,91 @@
      auto pos = lower_bound(v.begin(), v.end(), 5);
      ```
    - **Trường hợp sử dụng**: Khi cần tìm vị trí của phần tử trong mảng đã sắp xếp.
+
+## Hàm có sẵn nên biết
+
+## 1. **Hàm có sẵn trong C++ (STL - Standard Template Library)**
+
+### 1.1 **Các hàm xử lý chuỗi**
+   - `stoi(s)`, `stol(s)`, `stof(s)`, `stod(s)`: Chuyển chuỗi `s` thành số nguyên hoặc số thực.
+   - `to_string(n)`: Chuyển một số `n` thành chuỗi.
+   - `s.length()`, `s.size()`: Trả về độ dài chuỗi `s`.
+   - `s.substr(pos, len)`: Trích xuất chuỗi con từ vị trí `pos` với độ dài `len`.
+   - `s.find(sub)`: Tìm vị trí đầu tiên của chuỗi con `sub` trong `s`.
+   - `s.replace(pos, len, str)`: Thay thế `len` ký tự từ vị trí `pos` bằng chuỗi `str`.
+
+### 1.2 **Hàm toán học**
+   - `abs(x)`: Trị tuyệt đối của `x`.
+   - `pow(x, y)`: Tính `x` mũ `y`.
+   - `sqrt(x)`: Căn bậc hai của `x`.
+   - `gcd(a, b)`: Ước chung lớn nhất của `a` và `b` (C++17 trở lên).
+   - `lcm(a, b)`: Bội chung nhỏ nhất của `a` và `b` (C++17 trở lên).
+   - `min(a, b)` và `max(a, b)`: Trả về giá trị nhỏ nhất hoặc lớn nhất giữa `a` và `b`.
+
+### 1.3 **Các hàm xử lý mảng**
+   - `sort(arr.begin(), arr.end())`: Sắp xếp mảng theo thứ tự tăng dần.
+   - `reverse(arr.begin(), arr.end())`: Đảo ngược mảng.
+   - `lower_bound(arr.begin(), arr.end(), x)`: Trả về iterator của phần tử đầu tiên không nhỏ hơn `x` (tìm kiếm nhị phân).
+   - `upper_bound(arr.begin(), arr.end(), x)`: Trả về iterator của phần tử đầu tiên lớn hơn `x`.
+   - `accumulate(arr.begin(), arr.end(), 0)`: Tính tổng các phần tử trong mảng.
+
+### 1.4 **Hàm xử lý tập hợp**
+   - `set<int> s;`: Khai báo tập hợp `s` chỉ chứa các phần tử duy nhất.
+   - `s.insert(x)`: Thêm phần tử `x` vào tập `s`.
+   - `s.erase(x)`: Xóa phần tử `x` khỏi tập `s`.
+   - `s.find(x)`: Tìm kiếm phần tử `x` trong tập `s`.
+   - `s.count(x)`: Kiểm tra xem `x` có trong `s` hay không.
+
+### 1.5 **Các hàm xử lý đồ thị**
+   - `vector<vector<int>> adj;`: Danh sách kề cho đồ thị.
+   - `queue<int> q;`: Hàng đợi để duyệt BFS.
+   - `priority_queue<int> pq;`: Hàng đợi ưu tiên để lưu các giá trị theo thứ tự.
+   - `memset(arr, 0, sizeof(arr))`: Khởi tạo mảng `arr` với giá trị 0.
+   - `fill(arr.begin(), arr.end(), value)`: Điền tất cả phần tử trong `arr` bằng `value`.
+
+### 1.6 **Các hàm xử lý đệ quy và quay lui**
+   - `next_permutation(arr.begin(), arr.end())`: Tạo hoán vị tiếp theo.
+   - `prev_permutation(arr.begin(), arr.end())`: Tạo hoán vị trước đó.
+
+---
+
+## 2. **Hàm có sẵn trong Python**
+
+### 2.1 **Các hàm xử lý chuỗi**
+   - `int(s)`, `float(s)`: Chuyển chuỗi `s` thành số nguyên hoặc số thực.
+   - `str(n)`: Chuyển một số `n` thành chuỗi.
+   - `len(s)`: Trả về độ dài chuỗi `s`.
+   - `s.find(sub)`: Tìm vị trí đầu tiên của chuỗi con `sub` trong `s`.
+   - `s.replace(old, new)`: Thay thế chuỗi `old` bằng chuỗi `new` trong `s`.
+   - `s.split(delimiter)`: Tách chuỗi `s` theo ký tự `delimiter`.
+   - `delimiter.join(list)`: Ghép các phần tử của `list` thành một chuỗi, phân cách bởi `delimiter`.
+
+### 2.2 **Hàm toán học**
+   - `abs(x)`: Trị tuyệt đối của `x`.
+   - `pow(x, y)`: Tính `x` mũ `y`.
+   - `math.sqrt(x)`: Căn bậc hai của `x`.
+   - `math.gcd(a, b)`: Ước chung lớn nhất của `a` và `b`.
+   - `math.lcm(a, b)`: Bội chung nhỏ nhất của `a` và `b`.
+   - `min(a, b, c)`, `max(a, b, c)`: Trả về giá trị nhỏ nhất hoặc lớn nhất trong các đối số.
+
+### 2.3 **Các hàm xử lý mảng**
+   - `sorted(arr)`: Trả về mảng được sắp xếp tăng dần.
+   - `arr.sort(reverse=True)`: Sắp xếp `arr` giảm dần.
+   - `sum(arr)`: Tính tổng các phần tử trong `arr`.
+   - `arr.reverse()`: Đảo ngược `arr`.
+
+### 2.4 **Hàm xử lý tập hợp**
+   - `set()`: Khai báo tập hợp chỉ chứa các phần tử duy nhất.
+   - `s.add(x)`: Thêm phần tử `x` vào tập `s`.
+   - `s.remove(x)`: Xóa phần tử `x` khỏi tập `s`.
+   - `s.discard(x)`: Xóa `x` nếu có trong `s`.
+   - `s.union(t)`, `s.intersection(t)`: Hợp và giao hai tập `s` và `t`.
+
+### 2.5 **Hàm xử lý đồ thị**
+   - `deque()`: Hàng đợi hai đầu để duyệt BFS và DFS.
+   - `heapq`: Thư viện để sử dụng hàng đợi ưu tiên (heap).
+   - `collections.defaultdict(list)`: Tạo danh sách kề cho đồ thị.
+
+### 2.6 **Hàm xử lý đệ quy và quay lui**
+   - `itertools.permutations(arr)`: Sinh tất cả các hoán vị của `arr`.
+   - `itertools.combinations(arr, k)`: Sinh tất cả các tổ hợp `k` phần tử của `arr`.
