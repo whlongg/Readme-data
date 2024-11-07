@@ -92,18 +92,18 @@ W = 1/2 * 2 * 4² * (0.05)² = 0.08 J
 
 ## 5. Đồ thị Thế năng (Wₜ) theo thời gian
 
-**Thế năng** trong dao động điều hòa là năng lượng liên quan đến sự biến dạng của lò xo hoặc lực phục hồi.
+**Thế năng** trong dao động điều hòa là năng lượng liên quan đến sự biến dạng của lò xo, dao động của con lắc hoặc lực phục hồi.
 
 ```
-Wₜ = 1/2 * k * x²
+Wₜ = 1/2 * m * ω² * x²
 ```
 
-Trong đó, `k` là độ cứng của lò xo và `x(t)` là li độ của vật.
+Trong đó, `m` là khối lượng(hoặc k là độ cứng) và `x(t)` là li độ
 
 **Đặc điểm đồ thị:**
 - Thế năng đạt cực đại tại biên độ (x = ±A) và bằng không tại vị trí cân bằng (x = 0).
 
-### Ví dụ:
+ ### Ví dụ:
 Giả sử `k = 100 N/m`, `A = 0.1 m`, và `x(t) = 0.05 m`. Thế năng tại `x(t) = 0.05 m` là:
 
 ```
