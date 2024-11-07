@@ -1,5 +1,5 @@
 
-# Dao Động Điều Hòa - Các Đồ Thị và Năng Lượng
+# From HLong with love, đồ thị dao động điều hòa 
 
 ## 1. Đồ thị Li độ (x) theo thời gian
 
