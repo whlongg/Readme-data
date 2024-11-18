@@ -1,45 +1,17 @@
-# Muối Ammonium (NH₄⁺)
+**Tóm tắt nội dung:**  
 
-1. **Tính tan**
-   - Muối ammonium là hợp chất của ion ammonium (NH₄⁺) với các anion khác, như Cl⁻, NO₃⁻, SO₄²⁻, v.v.
-   - Phần lớn các muối ammonium tan tốt trong nước, cho dung dịch chứa ion NH₄⁺. Ví dụ:
-     - Ammonium chloride: NH₄Cl → NH₄⁺ + Cl⁻
-     - Ammonium nitrate: NH₄NO₃ → NH₄⁺ + NO₃⁻
-   - Điều này giúp muối ammonium dễ dàng tham gia vào các phản ứng hóa học khi ở dạng dung dịch.
+**1. Tiểu sử:**  
+Nhà văn Vi Hồng (1936-1997), người dân tộc Tày, quê tại Cao Bằng, là hội viên Hội Nhà văn Việt Nam từ năm 1980. Ông qua đời tại Thái Nguyên.  
 
-2. **Sự điện ly**
-   - Muối ammonium điện ly hoàn toàn trong nước, tạo ra ion NH₄⁺ và anion tương ứng, ví dụ:
-     - (NH₄)₂SO₄ → 2NH₄⁺ + SO₄²⁻
-   - Ion NH₄⁺ là ion có tính acid yếu, có khả năng tạo ra proton (H⁺) khi hòa tan trong nước, theo phương trình:
-     - NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺
-   - Quá trình này làm cho dung dịch của muối ammonium có tính acid nhẹ.
+**2. Quá trình công tác:**  
+Ông từng là giảng viên và Chủ nhiệm bộ môn Văn học dân gian tại Đại học Sư phạm Việt Bắc. Ông đã xuất bản 15 tiểu thuyết, 8 truyện ngắn, 6 tập nghiên cứu về truyện cổ Tày-Nùng và gần 30 công trình nghiên cứu văn hóa dân gian. Viết văn từ 1956, ông đạt nhiều giải thưởng văn học từ 1959 đến 1995.  
 
-3. **Tác dụng với kiềm**
-   - Khi tác dụng với dung dịch kiềm mạnh (NaOH hoặc KOH), muối ammonium giải phóng khí amoniac (NH₃):
-     - NH₄⁺ + OH⁻ → NH₃ ↑ + H₂O
-   - Phản ứng xảy ra khi đun nóng nhẹ và có mùi khai đặc trưng của NH₃. Đây là cách thông dụng để nhận biết ion NH₄⁺ trong dung dịch.
+**3. Tác phẩm tiêu biểu:**  
+- **Nghiên cứu:** *Sli lượn – dân ca trữ tình Tày Nùng* (1979), *Khảm Hải* (1993).  
+- **Tiểu thuyết:** *Đất bằng* (1980), *Thung lũng đá rơi* (1985), *Lòng dạ đàn bà* (1992), *Dòng sông nước mắt* (1993), *Đi tìm giàu sang* (1995).  
+- **Truyện ngắn:** *Đuông Thang* (1988), *Thách đố* (1995).  
 
-4. **Nhận biết ion Ammonium (NH₄⁺)**
-   - Để nhận biết ion NH₄⁺ trong dung dịch:
-     1. Lấy mẫu thử, thêm dung dịch NaOH hoặc KOH.
-     2. Đun nóng nhẹ hỗn hợp.
-     3. Nếu có mùi khí khai (do NH₃ thoát ra), chứng tỏ có NH₄⁺ trong dung dịch.
-   - Khí NH₃ thoát ra có thể làm quỳ tím chuyển sang màu xanh, xác nhận sự hiện diện của NH₄⁺.
-
-5. **Ví dụ về muối Ammonium**
-   - **Ammonium chloride (NH₄Cl)**: Muối này thường dùng làm thuốc tiêu đờm và trong ngành sản xuất pin.
-   - **Ammonium sulfate ((NH₄)₂SO₄)**: Sử dụng rộng rãi trong nông nghiệp làm phân bón cung cấp nitơ.
-   - **Ammonium nitrate (NH₄NO₃)**: Dùng làm phân bón và chất nổ công nghiệp.
-   - **Ammonium carbonate ((NH₄)₂CO₃)**: Ứng dụng trong ngành thực phẩm và làm chất tạo xốp trong bánh kẹo.
-
-6. **Công thức cấu tạo của ion Ammonium (NH₄⁺)**
-   - Cấu trúc của ion NH₄⁺ là hình tứ diện, với một nguyên tử nitơ (N) ở trung tâm và liên kết với bốn nguyên tử hydro (H). Các liên kết này là liên kết cộng hóa trị, trong đó nitơ đóng vai trò cho một cặp electron để tạo liên kết với H⁺, tạo thành điện tích dương trên toàn ion.
-   - Cấu trúc:
-     ```
-         H
-         |
-      H - N - H
-         |
-         H
-     ```
-   - Đây là ion dương (cation) ổn định, được tạo thành khi amoniac (NH₃) kết hợp với ion H⁺ trong dung dịch acid.
+**4. Giải thưởng:**  
+- Giải nhì truyện ngắn của Tổng Hội Sinh viên Việt Nam (1959).  
+- Nhiều giải thưởng văn học của báo chí, Hội Liên hiệp VHNT và Hội Văn nghệ dân gian từ 1962-1995.  
+- Giải thưởng Nhà nước về Văn học nghệ thuật (2012).
