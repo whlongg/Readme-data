@@ -2,13 +2,12 @@
 
 *   Nhân cả tử và mẫu với biểu thức liên hợp của tử số.
 *   Rút gọn tử số.
-*   Chia cả tử và mẫu cho $x$.
-*   Lưu ý rằng khi $x \to -\infty$ thì $\frac{\sqrt{4x^2 - x + 2}}{x} = -\sqrt{\frac{4x^2 - x + 2}{x^2}}$.
+*   Chia cả tử và mẫu cho x.
 *   Tính giới hạn.
 
 **b)**
 
-*   Xác định dấu của tử số và mẫu số khi $x$ tiến tới $-3$ từ bên trái.
+*   Xác định dấu của tử số và mẫu số khi $x$ tiến tới 3 từ bên trái.
 *   Tính giới hạn.
 
 **c)**
@@ -16,7 +15,7 @@
 *   Nhân cả tử và mẫu với biểu thức liên hợp của tử số.
 *   Rút gọn tử số.
 *   Phân tích mẫu số thành nhân tử.
-*   Rút gọn $(x-1)$ ở cả tử và mẫu.
+*   Rút gọn (x-1) ở cả tử và mẫu.
 *   Tính giới hạn.
 ---
 
