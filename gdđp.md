@@ -1,3 +1,4 @@
+# Tình huống sử dụng - Hoàng Long
 ### **1️⃣ Đi khom – Sử dụng tại cổng trường**  
 - **Tình huống giả định:** Bạn cần di chuyển qua cổng trường để tiến vào trong mà không bị đối phương (giả định là kẻ địch hoặc giám sát) phát hiện.  
 - **Cách thực hiện:**  
