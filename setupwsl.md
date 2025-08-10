@@ -19,6 +19,16 @@ _Cho FastAPI, NestJS, Next.js – optimized cho WSL2 + VS Code_
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y build-essential git curl wget unzip pkg-config
 ```
+- WSL config: `notepad $env:USERPROFILE\.wslconfig`
+```bash
+[wsl2]
+memory=16GB              # WSL dùng tối đa 16GB RAM (vẫn để trống RAM cho Windows)
+processors=4             # Số core WSL được dùng (tùy CPU ông chỉnh)
+fastLaunch=true          # Mở WSL nhanh hơn
+localhostForwarding=true # Cho phép kết nối localhost 2 chiều
+pageReporting=true       # Giúp Windows reclaim RAM WSL không dùng
+swap=0                   # Tắt swap hoàn toàn
+```
 
 ### 2.2 Zsh + tiện ích
 
